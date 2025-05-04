@@ -16,7 +16,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://bike-store-b4-a4-frontend.vercel.app",
+      "https://bike-shop-client-rho.vercel.app",
     ],
     credentials: true,
   })
