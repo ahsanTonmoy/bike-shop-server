@@ -17,6 +17,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://bike-shop-client-rho.vercel.app",
+      "https://online-bike-shop-ecommerce.vercel.app/"
     ],
     credentials: true,
   })
